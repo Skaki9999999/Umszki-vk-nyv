@@ -234,3 +234,23 @@ footer {
     .timeline-item:nth-child(odd), .timeline-item:nth-child(even) { left: 0; }
     .timeline-item::after { left: 23px; right: auto; }
 }
+.controls input,
+.controls select {
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 2px solid var(--accent-gold);
+    background: #1a1f2b;
+    color: var(--accent-gold);
+    font-family: 'Roboto Mono', monospace;
+    outline: none;
+}
+
+.controls input::placeholder {
+    color: var(--accent-gold);
+    opacity: 0.7;
+}
+
+.controls input:focus,
+.controls select:focus {
+    box-shadow: 0 0 8px var(--accent-gold);
+}
