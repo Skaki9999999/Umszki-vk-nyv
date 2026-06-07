@@ -37,7 +37,7 @@
             <p class="section-subtitle">Kattints az egyik korszakra a hozzá tartozó műszerek megtekintéséhez</p>
 
             <section class="timeline-container">
-                <div class="timeline-item" onclick="navigateToEra('1920-1930')">
+                <div class="timeline-item" onclick="navigateDatabase('1920-1930', 'era')">
                     <div class="timeline-content">
                         <h3>1920-1930-as évek</h3>
                         <p>Az elektroncsövek és a korai analóg technika aranykora. Alapvető méréstechnikai áttörések.</p>
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 
-                <div class="timeline-item" onclick="navigateToEra('1940')">
+                <div class="timeline-item" onclick="navigateDatabase('1940-1950', 'era')">
                     <div class="timeline-content">
                         <h3>1940-1950-es évek</h3>
                         <p>Tranzisztorok és az első integrált áramkörök megjelenése a múzeum gyűjteményében.</p>
@@ -53,7 +53,7 @@
                     </div>
                 </div>
 
-                <div class="timeline-item" onclick="navigateToEra('1960')">
+                <div class="timeline-item" onclick="navigateDatabase('1960-1970', 'era')">
                     <div class="timeline-content">
                         <h3>1960-1970-es évek</h3>
                         <p>A digitális jelfeldolgozás és a korai mikroszámítógépek forradalmának kezdete.</p>
@@ -61,7 +61,7 @@
                     </div>
                 </div>
 
-                <div class="timeline-item" onclick="navigateToEra('1980')">
+                <div class="timeline-item" onclick="navigateDatabase('1980', 'era')">
                     <div class="timeline-content">
                         <h3>1980-es évek</h3>
                         <p>A digitális jelfeldolgozás és a korai mikroszámítógépek forradalmának kezdete.</p>
@@ -91,48 +91,6 @@
     </footer>
 
 
-    <script>
-        const museumDatabase = [
-            { id: 1, era: "1920-1930", title: "Sorozatmérő acélmérce", desc: "A sorozatmérő acélmérce egy nagy pontosságú, kopásálló fém mérőeszköz, amelyet gépipari alkatrészek ellenőrzésére, sorozatgyártásban használt méretsablonok beállítására vagy munkadarabok közvetlen mérésére használnak." },
-            { id: 2, era: "1920-1930", title: "Elektroncsöves Voltmérő", desc: "Nagy precizitású, laboratóriumi mérőműszer a korai elektronikai fejlesztések idejéből, masszív fa borítással." },
-
-            
-        ];
-
-        function navigateToEra(selectedEra) {
-            document.getElementById('home-view').style.display = 'none';
-            document.getElementById('era-view').style.display = 'block';
-
-            document.getElementById('era-page-title').innerText = `${selectedEra}-es Évek`;
-            document.getElementById('era-page-subtitle').innerText = `A gyűjtemény ezen része a(z) ${selectedEra}-es évek technológiáit mutatja be.`;
-
-            const gridContainer = document.getElementById('filtered-hardware-grid');
-            gridContainer.innerHTML = '';
-
-            const filteredDevices = museumDatabase.filter(device => device.era === selectedEra);
-
-            filteredDevices.forEach(device => {
-                const cardHTML = `
-                    <div class="card">
-                        <div class="card-img">[ Kép: ${device.title} ]</div>
-                        <div class="card-content">
-                            <span class="card-era-badge">${device.era}-es évek</span>
-                            <h3 class="card-title">${device.title}</h3>
-                            <p style="color: var(--text-muted);">${device.desc}</p>
-                        </div>
-                    </div>
-                `;
-                gridContainer.innerHTML += cardHTML;
-            });
-
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-
-        function navigateToHome() {
-            document.getElementById('era-view').style.display = 'none';
-            document.getElementById('home-view').style.display = 'block';
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
