@@ -187,6 +187,7 @@ h1, h2, h3 {
 
 .card-img {
     height: 200px;
+    overflow: hidden;
     background-color: #2a313d;
     display: flex;
     align-items: center;
