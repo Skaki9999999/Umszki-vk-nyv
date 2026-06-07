@@ -3,13 +3,301 @@
         "era": "1920-1930",
         "title": "Sorozatmérő acélmérce",
         "category": "gepeszet",
-        "desc": "A sorozatmérő acélmérce egy nagy pontosságú, kopásálló fém mérőeszköz, amelyet gépipari alkatrészek ellenőrzésére, sorozatgyártásban használt méretsablonok beállítására vagy munkadarabok közvetlen mérésére használnak.",
-        "image": "Oszcilloszkop.jpg"
+        "desc": "Schuchardt & Schütte gyártmányú sorozatmérő acélmérce az 1920-as évekből. Nagy pontosságú, kopásálló fém mérőeszköz gépipari alkatrészek ellenőrzésére.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Analytical_balance_scales.jpg/320px-Analytical_balance_scales.jpg"
     },
     {
         "era": "1920-1930",
-        "title": "Elektroncsöves Voltmérő",
+        "title": "Tükrös galvanométer",
         "category": "elektro",
-        "desc": "Nagy precizitású, laboratóriumi mérőműszer a korai elektronikai fejlesztések idejéből, masszív fa borítással."
+        "desc": "Német gyártmányú tükrös galvanométer, Dr. B. Lange cégtől, az 1930-as évekből. Precíziós áramméréstechnikai eszköz.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Galvanometar_Siemens_%26_Halske_01.jpg/320px-Galvanometar_Siemens_%26_Halske_01.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Többfunkciós elektromos mérőműszer",
+        "category": "elektro",
+        "desc": "Német gyártmányú többfunkciós elektromos mérőműszer az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Avo_8_mk5_2_%28cropped%29.jpg/320px-Avo_8_mk5_2_%28cropped%29.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Precíziós laboratóriumi kétkarú mérleg",
+        "category": "gepeszet",
+        "desc": "Zier Károly Budapest gyártmányú precíziós laboratóriumi kétkarú mérleg az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Analytical_balance_%26_old_weighing_scales.JPG/320px-Analytical_balance_%26_old_weighing_scales.JPG"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Asztali fadobozos labor-feszültségmérő",
+        "category": "elektro",
+        "desc": "Asztali, fadobozos laboratóriumi feszültségmérő az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Voltmeter_hg.jpg/320px-Voltmeter_hg.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Szobai légnyomásmérő (barométer)",
+        "category": "gepeszet",
+        "desc": "Erdély és Szabó Műszergyár, Budapest gyártmányú szobai légnyomásmérő az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aneroid_barometer%2C_early_1900s%2C_Selsi_-_DSC06536.JPG/320px-Aneroid_barometer%2C_early_1900s%2C_Selsi_-_DSC06536.JPG"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Fizika laboratóriumi hidrosztatikai kísérleti készlet",
+        "category": "gepeszet",
+        "desc": "Fizika laboratóriumi hidrosztatikai kísérleti készlet az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Communicating_vessels.jpg/320px-Communicating_vessels.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Fizika laboratóriumi optikai kísérleti eszközkészlet",
+        "category": "gepeszet",
+        "desc": "Calderoni, Budapest gyártmányú fizika laboratóriumi optikai kísérleti eszközkészlet az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prism_and_light_dispersion.jpg/320px-Prism_and_light_dispersion.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Kísérleti röntgensugárcső",
+        "category": "elektro",
+        "desc": "Kísérleti röntgensugárcső az 1930-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Crookes_tube_xray_experiment.jpg/320px-Crookes_tube_xray_experiment.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Bourdon-csöves nyomásmérő (manométer)",
+        "category": "gepeszet",
+        "desc": "Marx és Mérei gyártmányú bemutató Bourdon-csöves nyomásmérő, Budapest, az 1940-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Manometer_img_2326.jpg/320px-Manometer_img_2326.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "UHF-voltmeter (Rohde & Schwarz)",
+        "category": "elektro",
+        "desc": "Rohde & Schwarz gyártmányú nagyfrekvenciás feszültségmérő, 1948-as gyártmány.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rohde_%26_Schwarz_FS300.JPG/320px-Rohde_%26_Schwarz_FS300.JPG"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Unimeter – fadobozos mérőkészülék",
+        "category": "elektro",
+        "desc": "Fadobozos, univerzális, elektromos, hordozható mérőkészülék, magyar gyártmány az 1950-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Multimeter_-_old_analog_type.jpg/320px-Multimeter_-_old_analog_type.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Szovjet gyártmányú hordozható mérőműszer",
+        "category": "elektro",
+        "desc": "Szovjet gyártmányú hordozható univerzális mérőműszer az 1950-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Multimeter_-_old_analog_type.jpg/320px-Multimeter_-_old_analog_type.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Isoleka – Megaohm szigetelésmérő",
+        "category": "elektro",
+        "desc": "Isoleka márkájú Megaohm szigetelésmérő megger (induktor).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Insulation_tester_500V.jpg/320px-Insulation_tester_500V.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Szovjet gyártmányú ellenállásszekrény",
+        "category": "elektro",
+        "desc": "Szovjet gyártmányú ellenállásszekrény az 1950-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Resistance_box.jpg/320px-Resistance_box.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Áramváltó (EKM-gyártmány)",
+        "category": "elektro",
+        "desc": "EKM gyártmányú áramváltó az 1950-es évekből. Elektromos Készülékek és Mérőműszerek Gyára, Kispest.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Current_transformer_2.jpg/320px-Current_transformer_2.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "CSEPEL motorkerékpár-motor (szeletelt)",
+        "category": "gepeszet",
+        "desc": "Szeletelt, egyhengeres, kétütemű CSEPEL motorkerékpár-motor az 1950-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2-stroke_cycle_plain.png/320px-2-stroke_cycle_plain.png"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Működőképes gőzkazán modell",
+        "category": "gepeszet",
+        "desc": "Működőképes gőzkazán modell az 1950-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/SteamEngine_Boulton%26Watt_1784.jpg/320px-SteamEngine_Boulton%26Watt_1784.jpg"
+    },
+    {
+        "era": "1940-1950",
+        "title": "Működőképes stabil gőzgépmodell",
+        "category": "gepeszet",
+        "desc": "Vizsgamunkából készült működőképes stabil gőzgépmodell, 1957-1958.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/SteamEngine_Boulton%26Watt_1784.jpg/320px-SteamEngine_Boulton%26Watt_1784.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Fizikakísérleti katódsugárcső",
+        "category": "elektro",
+        "desc": "Fizikakísérleti vagy bemutató katódsugárcső az 1960-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cathode_ray_tube.jpg/320px-Cathode_ray_tube.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Műszer katódsugárcső",
+        "category": "elektro",
+        "desc": "Műszer katódsugárcső az 1960-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Braun_cathode_ray_tube.jpg/320px-Braun_cathode_ray_tube.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Univeka – hordozható szervizműszer",
+        "category": "elektro",
+        "desc": "Univeka hordozható szervizműszer, hazai gyártmány, 1960.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Multimeter_-_old_analog_type.jpg/320px-Multimeter_-_old_analog_type.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Unavo – laboratóriumi csővoltmérő",
+        "category": "elektro",
+        "desc": "Unavo laboratóriumi csővoltmérő.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Voltmeter_hg.jpg/320px-Voltmeter_hg.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Servotest Signal Generator",
+        "category": "elektro",
+        "desc": "ORION-EMG gyártmányú Servotest jelgenerátor, 1950-1970 között elterjedt.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Signal_generator_labgear.jpg/320px-Signal_generator_labgear.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "V.T. voltmérő",
+        "category": "elektro",
+        "desc": "ORION-EMG gyártmányú V.T. voltmérő, univerzális elektromos mérőhelyekhez.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Voltmeter_hg.jpg/320px-Voltmeter_hg.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Orivohm II. voltmérő",
+        "category": "elektro",
+        "desc": "ORION-EMG gyártmányú Orivohm II. voltmérő.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Voltmeter_hg.jpg/320px-Voltmeter_hg.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Servotest oszcilloszkóp",
+        "category": "elektro",
+        "desc": "ORION-EMG gyártmányú Servotest oszcilloszkóp.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oscilloscope_Tektronix_475_-_open.jpg/320px-Oscilloscope_Tektronix_475_-_open.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "TV-Wobblerscope",
+        "category": "elektro",
+        "desc": "Szerviz/laborműszer, Híradástechnikai Szövetkezet gyártmány, 1965.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oscilloscope_Tektronix_475_-_open.jpg/320px-Oscilloscope_Tektronix_475_-_open.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Bemutató háromcsöves rádiókészülék",
+        "category": "elektro",
+        "desc": "Bemutató háromcsöves rádiókészülék, Transzvill, Mosonyi László, 1964.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Collection_of_Vintage_Vacuum_Tube_Radios%2C_Circa_1940s_%26_1950s_%288651944069%29.jpg/320px-Collection_of_Vintage_Vacuum_Tube_Radios%2C_Circa_1940s_%26_1950s_%288651944069%29.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Bemutató wattmérő (teljesítménymérő)",
+        "category": "elektro",
+        "desc": "Bemutató kereszt- vagy szorzótekercses teljesítménymérő (wattmérő).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wattmeter.jpg/320px-Wattmeter.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Anyagvizsgáló spektroszkóp",
+        "category": "gepeszet",
+        "desc": "Anyagvizsgáló vagy fizikalabor-spektroszkóp alapkészülék.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spectrometer_schematic.svg/320px-Spectrometer_schematic.svg.png"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Állandómágneses generátormodell",
+        "category": "elektro",
+        "desc": "Állandómágneses, váltakozó feszültségű generátormodell (induktor).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Electric_Generator_Animation.gif/320px-Electric_Generator_Animation.gif"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Carl Zeiss univerzális műhelymikroszkóp",
+        "category": "gepeszet",
+        "desc": "Carl Zeiss, Jena, NDK gyártmányú univerzális műhelymikroszkóp az 1960-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fluorescence_Microscope_ZEISS_UNIVERSAL_%28ca._1965%29_%286834822839%29.jpg/320px-Fluorescence_Microscope_ZEISS_UNIVERSAL_%28ca._1965%29_%286834822839%29.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Schmaltz-Linnih felületi minőségmérő mikroszkóp",
+        "category": "gepeszet",
+        "desc": "Schmaltz-Linnih ferde fényélű felületi minőségmérő mikroszkóp az 1960-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fluorescence_Microscope_ZEISS_UNIVERSAL_%28ca._1965%29_%286834822839%29.jpg/320px-Fluorescence_Microscope_ZEISS_UNIVERSAL_%28ca._1965%29_%286834822839%29.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Iskolai csengetési rendet vezérlő ingaóra",
+        "category": "gepeszet",
+        "desc": "Csehszlovák gyártmányú ingaóra az 1960-as évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pendulum_clock.jpg/320px-Pendulum_clock.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "„Ajax„ rugós kalapács modell",
+        "category": "gepeszet",
+        "desc": "Gépgyártástechnológiai oktatásban alkalmazott működőképes Ajax rugós kalapács modell.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PSM_V16_D444_Power_hammer.jpg/320px-PSM_V16_D444_Power_hammer.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Asztali fúrógép modell",
+        "category": "gepeszet",
+        "desc": "Gépgyártástechnológiai oktatásban alkalmazott működőképes asztali fúrógép modell.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Drillpress.jpg/320px-Drillpress.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Vésőgép modell",
+        "category": "gepeszet",
+        "desc": "Gépgyártástechnológiai oktatásban alkalmazott működőképes vésőgép modell.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shaper_machine.jpg/320px-Shaper_machine.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Stroboszkóp hatást szemléltető hajtómű",
+        "category": "gepeszet",
+        "desc": "Stroboszkóp hatást szemléltető hajtómű, vizsgamunka.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Stroboscope.jpg/320px-Stroboscope.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Kézi tekercselő számláló",
+        "category": "elektro",
+        "desc": "Iskolai elektrotechnikai gyakorlaton alkalmazott kézi tekercselő számláló művel, az 1960-1970-es évekből.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electronic_component_inductors.jpg/320px-Electronic_component_inductors.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Bemutató egykarú ellensúlyos mérleg",
+        "category": "gepeszet",
+        "desc": "Bemutató egykarú ellensúlyos mérleg.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Balance_de_pr%C3%A9cision_A._Collot.jpg/320px-Balance_de_pr%C3%A9cision_A._Collot.jpg"
+    },
+    {
+        "era": "1960-1970",
+        "title": "Bemutató egyhengeres légsűrítő",
+        "category": "gepeszet",
+        "desc": "Bemutató szeletelt, egyhengeres légsűrítő.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Air_compressor.jpg/320px-Air_compressor.jpg"
+    },
+    {
+        "era": "1980",
+        "title": "Festo FPC 101 – programozható vezérlő",
+        "category": "elektro",
+        "desc": "Festo FPC 101 szabadon programozható vezérlő az 1980-as évekből. Korai PLC technológia iskolai oktatáshoz.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Siemens_S7_300_PLC.jpg/320px-Siemens_S7_300_PLC.jpg"
     }
 ]
