@@ -107,4 +107,3 @@ document.getElementById('searchInput').addEventListener('keydown', function(even
         applyFilters();
     }
 });
-document.getElementById('categoryFilter').addEventListener('change', applyFilters);
