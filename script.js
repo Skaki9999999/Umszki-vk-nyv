@@ -80,9 +80,13 @@ function navigateDatabase(selectionFilter, selectionType) {
     }
     
     filteredDevices.forEach(device => {
+        const imgContent = device.image
+            ? `<img src="${device.image}" alt="${device.title}" style="width:100%; height:100%; object-fit:cover;">`
+            : `<span style="color:var(--text-muted); font-size:0.8rem;">Nincs kép</span>`;
+
         const cardHTML = `
             <div class="card">
-                <div class="card-img">hi</div> 
+                <div class="card-img">${imgContent}</div>
                 <div class="card-content">
                     <span class="card-era-badge">${device.era}-es évek</span>
                     <h3 class="card-title">${device.title}</h3>
