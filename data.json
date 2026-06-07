@@ -1,0 +1,15 @@
+[
+    {
+        "era": "1920-1930",
+        "title": "Sorozatmérő acélmérce",
+        "category": "gepeszet",
+        "desc": "A sorozatmérő acélmérce egy nagy pontosságú, kopásálló fém mérőeszköz, amelyet gépipari alkatrészek ellenőrzésére, sorozatgyártásban használt méretsablonok beállítására vagy munkadarabok közvetlen mérésére használnak.",
+        "image": "Oszcilloszkop.jpg"
+    },
+    {
+        "era": "1920-1930",
+        "title": "Elektroncsöves Voltmérő",
+        "category": "elektro",
+        "desc": "Nagy precizitású, laboratóriumi mérőműszer a korai elektronikai fejlesztések idejéből, masszív fa borítással."
+    }
+]
