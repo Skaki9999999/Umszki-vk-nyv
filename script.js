@@ -102,5 +102,9 @@ function navigateToHome() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-document.getElementById('searchInput').addEventListener('input', applyFilters);
+document.getElementById('searchInput').addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        applyFilters();
+    }
+});
 document.getElementById('categoryFilter').addEventListener('change', applyFilters);
